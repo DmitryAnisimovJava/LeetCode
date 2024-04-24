@@ -1,3 +1,5 @@
+package top_150;
+
 import java.util.stream.IntStream;
 
 public class RemoveElement27 {

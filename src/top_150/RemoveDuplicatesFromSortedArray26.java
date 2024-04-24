@@ -1,3 +1,5 @@
+package top_150;
+
 import java.util.Arrays;
 
 public class RemoveDuplicatesFromSortedArray26 {
