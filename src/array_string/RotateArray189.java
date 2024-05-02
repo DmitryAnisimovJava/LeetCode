@@ -1,8 +1,4 @@
-package top_150;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.stream.Stream;
+package array_string;
 
 /**
  * Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
