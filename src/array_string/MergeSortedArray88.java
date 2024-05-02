@@ -1,4 +1,4 @@
-package top_150;
+package array_string;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
@@ -24,7 +24,7 @@ public class MergeSortedArray88 {
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 3, 0, 0, 0};
         int[] nums2 = {2, 5, 6};
-//        top_150.MergeSortedArray88.solution(nums1, 3, nums2, 3);
+//        array_string.MergeSortedArray88.solution(nums1, 3, nums2, 3);
         MergeSortedArray88.solution2(nums1, 3, nums2, 3);
         System.out.println(Arrays.toString(nums1));
     }

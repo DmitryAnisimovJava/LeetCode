@@ -1,4 +1,4 @@
-package top_150;
+package array_string;
 
 public class RemoveDuplicatesfromSortedArray80 {
 
